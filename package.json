@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.141.1.251:8000/repository/ebay-npm/"
+    "registry": "http://172.31.23.105:8000/repository/ebay-npm/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
